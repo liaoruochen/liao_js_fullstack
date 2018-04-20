@@ -57,5 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
-.DS_stotr
+.DS_store
 pack-lock.json
